@@ -1,0 +1,24 @@
+{
+  "name": "R.E.-Think",
+  "version": "1.0.0",
+  "description": "ImaginingOurWorldOutsideTheBox",
+  "main": "C:/Users/Owner/Desktop\\JS_server_maker\\JSservers\\R.E.-Think\\server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "ReeceMcdorman",
+  "license": "ISC",
+  "dependencies": {
+    "ejs": "^2.6.2",
+    "es6-promise": "^4.2.6",
+    "express.js": "^1.0.0",
+    "http": "0.0.0",
+    "isomorphic-fetch": "^2.2.1",
+    "node.js": "0.0.0",
+    "nodemon": "^1.19.0",
+    "npm": "^6.9.0",
+    "request": "^2.88.0",
+    "require.js": "^1.0.0",
+    "socket.io": "^2.2.0"
+  }
+}
